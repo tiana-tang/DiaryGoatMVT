@@ -1,12 +1,12 @@
 # Dataset [Link]()
 # Directory Structure
 - ## Image Sequence
-  - Gostxxxx
+  - Gostxxxx [Sequential Image Sample x]
       - image_id.png
       - image_id.png
       - ....
-  - Gostxxxx
+  - Gostyyyy [Sequential Image Sample y]
   - ....
 - ## Annotation
-  - Gostxxxx.txt
+  - Gostxxxx.txt [Sequential Boundingbox Label x]
   - ......
