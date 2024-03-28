@@ -1,6 +1,6 @@
 # Dataset [Link]()
 # Directory Structure
-- ## annotations
+- ## annotations [Skeleton Keypoint Annotations]
   - test.json
   - train.json
   - val.json
