@@ -6,7 +6,7 @@
 - ## JPEGImages
   - image_id.jpg
   - ....
-- ## ImageSets [Data Split]
+- ## ImageSets [Dataset Split]
   - test.txt
   - train.txt
   - trainval.txt
