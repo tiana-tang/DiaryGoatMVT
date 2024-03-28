@@ -9,6 +9,7 @@ If you find our work useful in your research, please cite:
   year={2019},
   publisher={Elsevier}
 }
+
 @article{wang2018dairy,
   title={Dairy goat detection based on Faster R-CNN from surveillance video},
   author={Wang, Dong and Tang, JingLei and Zhu, Weijie and Li, Huan and Xin, Jing and He, Dongjian},
