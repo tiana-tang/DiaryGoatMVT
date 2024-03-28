@@ -1,8 +1,8 @@
 [Link]()
 # Directory Structure
-- Annotations
+- ## Annotations
   - image_id.xml
-- sheep_face_train
+- ## sheep_face_train
   - image_id.jpg
-- train.txt [training split]
-- val.txt [validation split]
+- ## train.txt [training split]
+- ## val.txt [validation split]
