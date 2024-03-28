@@ -1,6 +1,6 @@
 Dataset [Link]()
 # Directory Structure
-- ## json
+- ## json [Annotations]
   - via_export-train.json
   - via_export-val1.json
   - via_export-val2.json
