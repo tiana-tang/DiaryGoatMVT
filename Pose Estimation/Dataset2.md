@@ -1,6 +1,6 @@
 # Dataset [Link]()
 # Annotation Description
-- The first column represents the video number, the second column represents the frame sequence number within the video, the third to sixth columns represent the position of the dairy goat in the image, and the last column corresponds to the behavior of the dairy goat in the current frame. [Correspondence: <1,Standing>, <2,Walking>, <3,Lying down>, <4,Climbing>, <5,Fighting>]
+- The first column represents the video number, the second column represents the frame sequence number within the video, the third to sixth columns represent the position of the dairy goat in the image, and the last column corresponds to the behavior of the dairy goat in the current frame. [pose_label Correspondence: <1,Standing>, <2,Walking>, <3,Lying down>, <4,Climbing>, <5,Fighting>]
 # Directory Structure
 - ## annotations [video_index, frame_index, bounding_box, pose_label]
   - ava_val_v2.1.csv
