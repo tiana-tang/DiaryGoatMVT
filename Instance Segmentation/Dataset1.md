@@ -4,9 +4,12 @@ Dataset [Link]()
 - In this dataset, the ratio of train to test to val is 8:1:1.
 - The annotations include labeling information for train, test, and val. When using this dataset for model training, you can also re-segment the annotations to generate new train, test, and val datasets.
 # Directory Structure
-- ## Annotations
-  - image_id.xml
-- ## sheep_face_train
+- ## annotations
+  - val.json
+  - train.json
+  - test.json
+  - annotations.json
+- ## JPEGImages
   - image_id.jpg
-- ## train.txt [training split]
-- ## val.txt [validation split]
+  - image_id.png
+
