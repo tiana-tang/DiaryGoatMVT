@@ -1,4 +1,4 @@
 [Link]()
 # Directory Structure
 - Annotations
-- - image_id.xml
+  - image_id.xml
