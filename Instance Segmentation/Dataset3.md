@@ -13,6 +13,8 @@
 - ## img [images]
   - image_id.jpg
   - image_id.png
+  - ....
 - ## gt [ground truth]
-  - iamge_id#x.png  
+  - iamge_id#x.png
+  - ....
   
