@@ -1,6 +1,6 @@
 # Dataset [Link]()
 # Directory Structure
 ## Annotation
-- img_id.xml
+- image_id.xml
 ## Image
-- img_id.png
+- image_id.png
