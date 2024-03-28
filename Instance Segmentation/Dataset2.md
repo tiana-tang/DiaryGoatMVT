@@ -7,10 +7,13 @@
 - ## train [Training Images]
   - image_id.jpg
   - image_id.png
+  - ....
 - ## val-test [Validation&Test Images]
   - test
     - image_id.jpg
-    - iamge_id.png  
+    - iamge_id.png
+    - ....
   - val
     - image_id.jpg
-    - image_id.png  
+    - image_id.png
+    - ....
