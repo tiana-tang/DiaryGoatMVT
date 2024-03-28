@@ -1,3 +1,4 @@
+If you find our work useful in your research, please cite:
 ```
 @article{chen2024grmpose,
   title={GRMPose: GCN-based real-time dairy goat pose estimation},
