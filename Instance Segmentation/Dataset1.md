@@ -12,4 +12,5 @@
 - ## JPEGImages
   - image_id.jpg
   - image_id.png
+  - ....
 
