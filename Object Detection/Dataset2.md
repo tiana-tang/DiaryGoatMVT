@@ -1,5 +1,6 @@
-# VOCdevkit.zip
-### Annotations
+# Dataset [Link]
+# Directory Structure
+## Annotation
 - img_id.xml <img_id, boundingbox>
-### JPEGImages
+## Image
 - img_id.png
