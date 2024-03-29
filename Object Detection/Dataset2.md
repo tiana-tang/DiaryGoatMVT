@@ -1,6 +1,6 @@
 # Dataset [Link]()
 # Directory Structure
-- ## Annotation
+- ## Annotation [Bounding Box Annotations]
   - image_id.xml
   - ....
 - ## Image
