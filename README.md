@@ -7,7 +7,7 @@ Welcome to our Multi-Vision Task Dataset Repository for Dairy Goats! This reposi
 If you find our work useful in your research, please cite:
 
 ```
-Instance Sgementation
+### Sgementation: 
 @article{zhang2023interactive,
   title={Interactive Dairy Goat Image Segmentation for Precision Livestock Farming},
   author={Zhang, Lianyue and Han, Gaoge and Qiao, Yongliang and Xu, Liu and Chen, Ling and Tang, Jinglei},
