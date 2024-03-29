@@ -3,7 +3,7 @@
 - ## black-out-stand
   - image.jpg
   - ....
-- ## Eatting
+- ## eatting
   - image.jpg
   - ....
 - ## white-in-line
