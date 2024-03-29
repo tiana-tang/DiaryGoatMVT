@@ -65,9 +65,3 @@ If you find our work useful in your research, please cite:
   publisher={Elsevier}
 }
 ```
-
-## Usage Instructions
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/dataset-repository.git
