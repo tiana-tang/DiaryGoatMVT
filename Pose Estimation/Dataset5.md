@@ -1,6 +1,6 @@
 # Dataset [Link]()
 # Directory Structure
-- ## annotations [segmentation & bounding box & skeleton keypoint annotations]
+- ## annotations [Segmentation & Bounding Box & Skeleton Keypoint Annotations]
   - milkgoat_test.json
   - milkgoat_train.json
   - milkgoat_val.json
