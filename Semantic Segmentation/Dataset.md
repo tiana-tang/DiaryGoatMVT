@@ -3,6 +3,6 @@
 - ## images
   - image_id.png
   - ....
-- ## labels [Mask]
+- ## labels [Mask Annotations]
   - image_id.png
   - ....
