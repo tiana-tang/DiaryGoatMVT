@@ -2,7 +2,8 @@
 
 ## Overview
 
-Welcome to our dataset repository! This repository hosts a collection of datasets across various domains for researchers and developers to use. Our goal is to provide an easy and accessible way to acquire data, fostering research and development in respective fields.
+Welcome to our Multi-Vision Task Dataset Repository for Dairy Goats! This repository contains a variety of annotated datasets for visual tasks created by our lab, including goat face recognition, instance segmentation, object detection, object tracking, pose estimation & behavior recognition, and semantic segmentation. Our goal is to advance the field of intelligent agriculture and provide data and references for future researchers.
+
 
 ## Datasets
 
