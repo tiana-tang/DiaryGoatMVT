@@ -1,5 +1,9 @@
 # Dataset [Link]()
 # Directory Structure
+- ## annotations [dataset split]
+  - milkgoat_test.json
+  - milkgoat_train.json
+  - milkgoat_val.json
 - ## data
   - climb
     - image_id.jpg
