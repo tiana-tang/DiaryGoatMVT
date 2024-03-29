@@ -1,1 +1,24 @@
-
+# Dataset [Link]()
+# Directory Structure
+- ## data
+  - climb
+    - image_id.jpg
+    - ....
+  - eat
+    - image_id.jpg
+    - ....
+  - fight
+    - image_id.jpg
+    - ....
+  - laydown
+    - image_id.jpg
+    - ....
+  - paralytic
+    - image_id.jpg
+    - ....
+  - stand
+    - image_id.jpg
+    - ....
+  - walk
+    - image_id.jpg
+    - ....
