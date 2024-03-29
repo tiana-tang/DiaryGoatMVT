@@ -20,6 +20,10 @@ Sgementation:
   publisher={MDPI}
 }
 
+Object Detection:
+
+
+
 ```
 
 ## Usage Instructions
