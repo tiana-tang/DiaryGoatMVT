@@ -6,7 +6,8 @@
   - image_id.jpg
   - ....
 - ## ImageSets [Dataset Split]
-  - test.txt
-  - train.txt
-  - trainval.txt
-  - val.txt
+  - Main 
+    - test.txt
+    - train.txt
+    - trainval.txt
+    - val.txt
