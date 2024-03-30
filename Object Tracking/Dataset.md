@@ -1,4 +1,3 @@
-# Dataset [Link]()
 # Directory Structure
 - ## Image Sequence
   - Gostxxxx [Sequential Image Sample x]
