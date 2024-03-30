@@ -1,5 +1,5 @@
 ## DiaryGoatMVT
-Welcome to our DiaryGoatMVT! This repository contains a variety of annotated datasets for visual tasks created by our lab, including goat face recognition, instance segmentation, object detection, object tracking, pose estimation & behavior recognition, and semantic segmentation. Our goal is to advance the field of intelligent agriculture and provide data and references for future researchers.
+Welcome to our DiaryGoatMVT! This repository contains a variety of annotated datasets for visual tasks created by our lab, including id identificatioin, instance segmentation, object detection, object tracking, pose estimation, behavior recognition, and semantic segmentation. Our goal is to advance the field of intelligent agriculture and provide data and references for future researchers.
 ## Data Download
 You can download all the datasets through the [Link]().
 ## Addtional Information
