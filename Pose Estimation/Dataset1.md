@@ -1,4 +1,3 @@
-# Dataset [Link]()
 # Directory Structure
 - ## annotations [Skeleton Keypoint Annotations]
   - test.json
