@@ -1,4 +1,3 @@
-# Dataset [Link]()
 # Directory Description
 - Image annotation files all have a .json suffix and are in COCO format.
 - In this dataset, the ratio of train to test to val is 8:1:1.
