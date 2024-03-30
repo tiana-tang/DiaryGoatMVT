@@ -1,4 +1,3 @@
-# Dataset [Link]()
 # Directory Structure
 - ## images
   - image_id.png
