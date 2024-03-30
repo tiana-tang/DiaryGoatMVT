@@ -6,7 +6,7 @@ You can download all the datasets through the [Link]().
 This dataset is free for academic usage. For other purposes, please contact us (tangjinglei@nwsuaf.edu.cn).
 
 If you find our work useful in your research, please cite:
-  - Sgementation:
+  - ### Sgementation:
 ```
 @article{zhang2023interactive,
   title={Interactive Dairy Goat Image Segmentation for Precision Livestock Farming},
@@ -19,7 +19,7 @@ If you find our work useful in your research, please cite:
   publisher={MDPI}
 }
 ```
-- Object Detection:
+- ### Object Detection:
 ```
 @article{tang2019salient,
   title={Salient object detection of dairy goats in farm image based on background and foreground priors},
@@ -42,7 +42,7 @@ If you find our work useful in your research, please cite:
   publisher={Elsevier}
 }
 ```
-- Object Tracking:
+- ### Object Tracking:
 ```
 @article{su2021automatic,
   title={Automatic tracking of the dairy goat in the surveillance video},
@@ -54,7 +54,7 @@ If you find our work useful in your research, please cite:
   publisher={Elsevier}
 }
 ```
-- Pose Estimation & Behavior Recognition:
+- ### Pose Estimation & Behavior Recognition:
 ```
 @article{chen2024grmpose,
   title={GRMPose: GCN-based real-time dairy goat pose estimation},
