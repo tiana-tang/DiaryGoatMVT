@@ -1,4 +1,3 @@
-# Dataset [Link]()
 # Directory Description
 - The dairy goat image dataset is divided according to the PASCAL VOC 2012 format and contains a total of three folders: img, gt, and list.
 - The img folder stores all the original images (3008) in the dairy goat dataset, including both training and test set images.
