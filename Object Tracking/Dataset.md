@@ -1,5 +1,5 @@
 # Directory Structure
-- ## Image Sequence
+- ## Image_Sequence
   - Gostxxxx [Sequential Image Sample x]
       - image_id.png
       - image_id.png
