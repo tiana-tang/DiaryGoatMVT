@@ -1,4 +1,3 @@
-# Dataset [Link]()
 # Directory Structure
 - ## videos
   - climb_id.mp4
