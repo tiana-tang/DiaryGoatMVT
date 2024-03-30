@@ -1,4 +1,3 @@
-# Dataset [Link]()
 # Directory Structure
 - ## black-out-stand
   - image.jpg
