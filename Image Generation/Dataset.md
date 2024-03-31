@@ -1,17 +1,17 @@
 # Directory Structure
-- ## black-out-stand
+- ## black-outdoor-lying
   - image.jpg
   - ....
-- ## white-in-line
+- ## black-grass-standing
   - image.jpg
   - ....
-- ## white-in-stand
+- ## white-grass-standing
   - image.jpg
   - ....
-- ## white-out-line
+- ## white-outdoor-lying
   - image.jpg
   - ....
-- ## white-out-stand
+- ## white-outdoor-standing
   - image.jpg
   - ....
 
