@@ -8,9 +8,9 @@ You can download all the datasets through the [Link](https://pan.baidu.com/s/1rR
 ## Addtional Information
 团队其他相关成果：
 
-(1)DGAnnotation交互式标注系统[下载](https://pan.baidu.com/s/1PAD-9-e8lb7PJUtFdYyhfg?pwd=yi7k)：基于DeepLabv3+研发的交互式标注系统，其标注速度为Labelme的5倍，可实现奶山羊像素级语义分割。
+(1) DGAnnotation交互式标注系统[下载](https://pan.baidu.com/s/1PAD-9-e8lb7PJUtFdYyhfg?pwd=yi7k)：基于DeepLabv3+研发的交互式标注系统，其标注速度为Labelme的5倍，可实现奶山羊像素级语义分割。
 
-(2)羊病辅助诊断与学习平台：结合Trans-CNN和知识图谱实现羊病辅助诊断，并提供专业学习资料及羊友论坛。平台二维码如下：
+(2) 羊病辅助诊断与学习平台：结合Trans-CNN和知识图谱实现羊病辅助诊断，并提供专业学习资料及羊友论坛。平台二维码如下：
 <p align="center">
   <img src="pics/QR_code.jpeg" width="200"/>
 </p>
