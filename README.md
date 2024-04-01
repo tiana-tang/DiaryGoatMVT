@@ -1,5 +1,7 @@
 ## DiaryGoatMVT
 Welcome to our DiaryGoatMVT! This repository contains a variety of annotated datasets for visual tasks created by our lab, including id identificatioin, instance segmentation, object detection, object tracking, pose estimation, behavior recognition, semantic segmentation, and image generation. Our goal is to advance the field of intelligent agriculture and provide data and references for future researchers.
+我们首次公开、共享了奶山羊多视觉任务数据集DairyGoatMVT，该数据集是我们团队十多年积累的成果，主要面向奶山羊的目标检测、目标跟踪、姿态估计、行为识别、个体识别、语义分割、实例分割及图像生成等多视觉任务。欢迎各位老师批评指正，后续我们将会继续更新、完善和共享相关数据，以期为畜禽视觉任务模型、农业大模型提供数据支撑。
+
 ## Data Download
 You can download all the datasets through the [Link](https://pan.baidu.com/s/1rRBElmpcb7O6RaG5X8GNrw?pwd=3vgb).
 ## Addtional Information
