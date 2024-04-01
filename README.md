@@ -13,6 +13,7 @@ You can download all the datasets through the [Link](https://pan.baidu.com/s/1rR
 (2)羊病辅助诊断与学习平台[链接]() ：结合Trans-CNN和知识图谱实现羊病辅助诊断，并提供专业学习资料及羊友论坛。
 
 This dataset is free for academic usage. For other purposes, please contact us (tangjinglei@nwsuaf.edu.cn).
+
 If you find our work useful in your research, please cite:
   - ### Sgementation:
 ```
