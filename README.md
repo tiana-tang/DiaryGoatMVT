@@ -63,6 +63,17 @@ If you find our work useful in your research, please cite:
   publisher={Elsevier}
 }
 ```
+```
+@article{su2022intelligent,
+  title={An intelligent method for dairy goat tracking based on Siamese network},
+  author={Su, Qingguo and Tang, Jinglei and Zhai, Mingxin and He, Dongjian},
+  journal={Computers and Electronics in Agriculture},
+  volume={193},
+  pages={106636},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 - ### Pose Estimation & Behavior Recognition:
 ```
 @article{chen2024grmpose,
