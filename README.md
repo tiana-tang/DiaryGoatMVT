@@ -12,7 +12,7 @@ You can download all the datasets through the [Link](https://pan.baidu.com/s/1rR
 
 (2)羊病辅助诊断与学习平台 ：结合Trans-CNN和知识图谱实现羊病辅助诊断，并提供专业学习资料及羊友论坛。
 <p align="center">
-  <img src="pics/QR_code.jpg" hspace="20"/>
+  <img src="pics/QR_code.jpeg" hspace="20"/>
 </p>
 
 
