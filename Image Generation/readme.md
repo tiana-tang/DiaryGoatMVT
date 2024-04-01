@@ -1,4 +1,4 @@
-
+If you find our work useful in your research, please cite:
 ```
 @article{li2020dairy,
   title={Dairy goat image generation based on improved-self-attention generative adversarial networks},
