@@ -10,9 +10,9 @@ This dataset is free for academic usage. For other purposes, please contact us (
 
 团队其他相关成果：
 
-(1)DGAnnotation奶山羊交互式标注系统（下载）：其标注速度为Labelme的5倍，可实现奶山羊图像的像素级语义分割。
+(1)DGAnnotation奶山羊交互式标注系统[下载]() ：其标注速度为Labelme的5倍，可实现奶山羊图像的像素级语义分割。
 
-(2)羊病辅助诊断与学习平台（下载）：结合Trans-CNN和知识图谱实现羊病辅助诊断，并提供专业学习资料及羊友论坛。
+(2)羊病辅助诊断与学习平台[链接]() ：结合Trans-CNN和知识图谱实现羊病辅助诊断，并提供专业学习资料及羊友论坛。
 
 If you find our work useful in your research, please cite:
   - ### Sgementation:
