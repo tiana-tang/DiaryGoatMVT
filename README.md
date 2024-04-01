@@ -6,14 +6,13 @@ Welcome to our DiaryGoatMVT! This repository contains a variety of annotated dat
 ## Data Download
 You can download all the datasets through the [Link](https://pan.baidu.com/s/1rRBElmpcb7O6RaG5X8GNrw?pwd=3vgb).
 ## Addtional Information
-This dataset is free for academic usage. For other purposes, please contact us (tangjinglei@nwsuaf.edu.cn).
-
 团队其他相关成果：
 
 (1)DGAnnotation奶山羊交互式标注系统[下载]() ：其标注速度为Labelme的5倍，可实现奶山羊图像的像素级语义分割。
 
 (2)羊病辅助诊断与学习平台[链接]() ：结合Trans-CNN和知识图谱实现羊病辅助诊断，并提供专业学习资料及羊友论坛。
 
+This dataset is free for academic usage. For other purposes, please contact us (tangjinglei@nwsuaf.edu.cn).
 If you find our work useful in your research, please cite:
   - ### Sgementation:
 ```
